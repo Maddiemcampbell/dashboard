@@ -1,31 +1,65 @@
-# React Starter w/ Express Server, using Parcel
+<h1 align="center">Welcome to Chronic Pain Tracker 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/SanDiegoCodeSchool/react-parcel#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/SanDiegoCodeSchool/react-parcel/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/SanDiegoCodeSchool/react-parcel/blob/master/LICENSE" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/Maddiemcampbell/Chronic Pain Tracker" />
+  </a>
+  <a href="https://twitter.com/maddiemcampbell" target="_blank">
+    <img alt="Twitter: maddiemcampbell" src="https://img.shields.io/twitter/follow/maddiemcampbell.svg?style=social" />
+  </a>
+</p>
 
-This is a project template that can be used to quickly start a react project. It has minimal dependencies and has a server route that you can use to proxy requests without exposing your api keys.
+> Dashboard for users to be able to see and track data about their chronic pain.
 
-## Getting Started
+### 🏠 [Homepage](https://github.com/SanDiegoCodeSchool/react-parcel#readme)
 
-Install dependencies:
+### ✨ [Demo](coming soon)
+
+## Install
+
+```sh
+npm install
 ```
-$ npm install
+
+## Usage
+
+```sh
+npm run start
 ```
 
-Run the build
-```
-$ npm run build
-```
+## Run tests
 
-Start the server
-```
-$ npm run start
+```sh
+coming soon
 ```
 
-## Use case
+## Author
 
-When you create a request to a third party API from the server side (to protect your API key/credentials) you should create a `.env` file with your key.
+👤 **Madeline Campbell**
 
-This will ensure that your private credentials do not get committed to git and will not be exposed to others on Github.
+* Website: https://madelinecampbell.dev
+* Twitter: [@maddiemcampbell](https://twitter.com/maddiemcampbell)
+* Github: [@Maddiemcampbell](https://github.com/Maddiemcampbell)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/madelinemcampbell\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/madelinemcampbell\/)
 
-You will also need to modify the `server/server.js` file to make your call to your api url and return back your data to your front end.
+## 🤝 Contributing
 
-An example of a request to a mock server is shown in the file. You will replace this with the API you want data from.
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/SanDiegoCodeSchool/react-parcel/issues). You can also take a look at the [contributing guide](https://github.com/SanDiegoCodeSchool/react-parcel/blob/master/CONTRIBUTING.md).
 
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Madeline Campbell](https://github.com/Maddiemcampbell).<br />
+This project is [ISC](https://github.com/SanDiegoCodeSchool/react-parcel/blob/master/LICENSE) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
