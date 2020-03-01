@@ -50,7 +50,7 @@ coming soon
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/SanDiegoCodeSchool/react-parcel/issues). You can also take a look at the [contributing guide](https://github.com/SanDiegoCodeSchool/react-parcel/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Maddiemcampbell/dashboard/issues). You can also take a look at the [contributing guide](https://github.com/Maddiemcampbell/dashboard/issues).
 
 ## Show your support
 
