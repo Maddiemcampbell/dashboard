@@ -17,9 +17,9 @@
 
 > Dashboard for users to be able to see and track data about their chronic pain.
 
-### 🏠 [Homepage](https://github.com/SanDiegoCodeSchool/react-parcel#readme)
+### 🏠 [Homepage](https://github.com/Maddiemcampbell/dashboard)
 
-### ✨ [Demo](coming soon)
+### ✨ [Demo](https://madelinecampbell.dev)
 
 ## Install
 
@@ -45,8 +45,8 @@ coming soon
 
 * Website: https://madelinecampbell.dev
 * Twitter: [@maddiemcampbell](https://twitter.com/maddiemcampbell)
-* Github: [@Maddiemcampbell](https://github.com/Maddiemcampbell)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/madelinemcampbell\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/madelinemcampbell\/)
+* Github: [@maddiemcampbell](https://github.com/Maddiemcampbell)
+* LinkedIn: [@madelinemcampbell](https://www.linkedin.com/in/madelinemcampbell/)
 
 ## 🤝 Contributing
 
@@ -60,6 +60,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Madeline Campbell](https://github.com/Maddiemcampbell).<br />
 This project is [ISC](https://github.com/SanDiegoCodeSchool/react-parcel/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
